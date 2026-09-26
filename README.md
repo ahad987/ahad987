@@ -32,9 +32,9 @@ A Computer Science Post-Graduate (M.Sc. in CS) and former Academic Educator with
 
 ### 📧 Connect with Me
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
-- 📧 **Email:** [Your Email Address Here]
-- 🌐 **Facebook Page:** [Ahad Academy](https://www.facebook.com/dscc68) (Academic Content & Logic)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/ahad1987/]
+- 📧 **Email:** [ahad987@gmail.com]
+- 🌐 **Facebook Page:** [Abdul Ahad Chowdhury](https://www.facebook.com/ahadc) (Academic Content & Logic)
 
 *"Bridging academic logic with modern, production-ready code."*
 
